@@ -5,4 +5,4 @@ us with the tools that allow us to build filters for digital discrete signals in
 project allows us to see a real world use case for some of the topics we have been studying in
 ECE351
 
-PDF File in repo is the Report submitted
+PDF File in repo is the report submitted
